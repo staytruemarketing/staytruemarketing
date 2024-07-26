@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning basics in python and about LLMs
 - 💞️ I’m looking to collaborate on I don't know yet, because I am a complete beginner
 - 📫 How to reach me 
-- 😄 Pronouns: yes, i am a she/her original
+- 😄 Pronouns: yes, i am a she/her original and I'm a 50+ y old GenX (which should tell you I'm resilient and freaking awesome)
 - ⚡ Fun fact: I learn by fearlessly trying and doing which leads to crude mistakes 😬 through which I learn even more because I have to fix the issues
 
 <!---
